@@ -1,0 +1,204 @@
+INFORMATION SUR LES JOURNALISTES
+
+=================================
+
+-----------Journaliste-----------
+
+ID : 12
+Nom : Poiuu
+Prénom : 
+Courriel : 
+Téléphone : 
+Code d'utilisateur : 
+-----------Article-----------
+
+ID : 656532
+Adresse : http://ici.radio-canada.ca/sujet/elections-quebec-2014/2014/03/05/012-francois-legault-lancement-campagne-coalition-avenir-quebec-caq.xml
+Section : sujet
+Categorie : elections-quebec-2014
+Fichier : 012-francois-legault-lancement-campagne-coalition-avenir-quebec-caq.xml
+Date de creation : 5/3/2014
+Titre : La CAQ souhaite mettre un terme à la résignation des Québécois
+Mots clés : francois,legault,lancement,campagne,coalition,avenir,quebec,caq
+-----------Article-----------
+
+ID : 656507
+Adresse : http://ici.radio-canada.ca/sujet/elections-quebec-2014/2014/03/05/011-quebec-solidaire-lancement-campagne.xml
+Section : sujet
+Categorie : elections-quebec-2014
+Fichier : 011-quebec-solidaire-lancement-campagne.xml
+Date de creation : 5/3/2014
+Titre : Justice sociale et souveraineté au menu pour Québec solidaire
+Mots clés : quebec,solidaire,lancement,campagne
+-----------Article-----------
+
+ID : 656446
+Adresse : http://ici.radio-canada.ca/sujet/elections-quebec-2014/2014/03/05/001-declenchement-elections-conseil-ministre-lieutenant-gouverneur.xml
+Section : sujet
+Categorie : elections-quebec-2014
+Fichier : 001-declenchement-elections-conseil-ministre-lieutenant-gouverneur.xml
+Date de creation : 5/3/2014
+Titre : Des élections au Québec le 7 avril
+Mots clés : declenchement,elections,conseil,ministre,lieutenant,gouverneur
+-----------Article-----------
+
+ID : 656403
+Adresse : http://ici.radio-canada.ca/sujet/elections-quebec-2014/2014/03/05/004-boussole-electorale-lancement-nouveautes.xml
+Section : sujet
+Categorie : elections-quebec-2014
+Fichier : 004-boussole-electorale-lancement-nouveautes.xml
+Date de creation : 5/3/2014
+Titre : La Boussole électorale est de retour
+Mots clés : boussole,electorale,lancement,nouveautes
+-----------Journaliste-----------
+
+ID : 33
+Nom : 
+Prénom : 
+Courriel : 
+Téléphone : 
+Code d'utilisateur : 
+-----------Article-----------
+
+ID : 656524
+Adresse : http://ici.radio-canada.ca/nouvelles/Economie/2014/03/05/002-datamark-fermeture-lassale-emplois.xml
+Section : nouvelles
+Categorie : Economie
+Fichier : 002-datamark-fermeture-lassale-emplois.xml
+Date de creation : 5/3/2014
+Titre : Fermeture de Datamark Systems : 400 emplois perdus
+Mots clés : datamark,fermeture,lassale,emplois
+-----------Article-----------
+
+ID : 656497
+Adresse : http://ici.radio-canada.ca/nouvelles/actualite/2014/03/05/001-blainville-longueuil-varennes-institut-du-transport-electrique-electrification-des-transports.xml
+Section : nouvelles
+Categorie : actualite
+Fichier : 001-blainville-longueuil-varennes-institut-du-transport-electrique-electrification-des-transports.xml
+Date de creation : 5/3/2014
+Titre : Bataille dans le 450 pour accueillir l'Institut du transport électrique
+Mots clés : blainville,longueuil,varennes,institut,du,transport,electrique,electrification,des,transports
+-----------Article-----------
+
+ID : 656423
+Adresse : http://ici.radio-canada.ca/nouvelles/Economie/2014/03/04/003-bitcoins-vol-fermeture-flexcoin.xml
+Section : nouvelles
+Categorie : Economie
+Fichier : 003-bitcoins-vol-fermeture-flexcoin.xml
+Date de creation : 4/3/2014
+Titre : Fermeture d'une seconde plateforme d'échange de bitcoins après un vol
+Mots clés : bitcoins,vol,fermeture,flexcoin
+-----------Journaliste-----------
+
+ID : 45
+Nom : 
+Prénom : 
+Courriel : 
+Téléphone : 
+Code d'utilisateur : 
+-----------Article-----------
+
+ID : 656515
+Adresse : http://ici.radio-canada.ca/sports/hockey/2014/03/05/006-canadien-devan-dubnyk-transaction.xml
+Section : sports
+Categorie : hockey
+Fichier : 006-canadien-devan-dubnyk-transaction.xml
+Date de creation : 5/3/2014
+Titre : Vanek à Montréal
+Mots clés : canadien,devan,dubnyk,transaction
+-----------Article-----------
+
+ID : 656484
+Adresse : http://ici.radio-canada.ca/sports/hockey/2014/03/05/003-lnh-martin-st-louis-ryan-callahan.xml
+Section : sports
+Categorie : hockey
+Fichier : 003-lnh-martin-st-louis-ryan-callahan.xml
+Date de creation : 5/3/2014
+Titre : St-Louis portera l'uniforme des Rangers
+Mots clés : lnh,martin,st,louis,ryan,callahan
+-----------Journaliste-----------
+
+ID : 47
+Nom : 
+Prénom : 
+Courriel : 
+Téléphone : 
+Code d'utilisateur : 
+-----------Article-----------
+
+ID : 655839
+Adresse : http://ici.radio-canada.ca/nouvelles/science/2014/02/28/002-femmes-resistantes-hommes-defauts-genetiques.xml
+Section : nouvelles
+Categorie : science
+Fichier : 002-femmes-resistantes-hommes-defauts-genetiques.xml
+Date de creation : 28/2/2014
+Titre : Le cerveau féminin plus résistant aux troubles du développement
+Mots clés : femmes,resistantes,hommes,defauts,genetiques
+-----------Article-----------
+
+ID : 656324
+Adresse : http://ici.radio-canada.ca/nouvelles/science/2014/03/04/002-etude-enfants-cesarienne-embonpoint.xml
+Section : nouvelles
+Categorie : science
+Fichier : 002-etude-enfants-cesarienne-embonpoint.xml
+Date de creation : 4/3/2014
+Titre : Les bébés nés par césarienne souffriraient davantage d'embonpoint
+Mots clés : etude,enfants,cesarienne,embonpoint
+-----------Article-----------
+
+ID : 643923
+Adresse : http://ici.radio-canada.ca/nouvelles/science/2013/11/29/003-cigarette-electronique-nicotine-recommandation-medecins-danger.xml
+Section : nouvelles
+Categorie : science
+Fichier : 003-cigarette-electronique-nicotine-recommandation-medecins-danger.xml
+Date de creation : 29/11/2013
+Titre : Des médecins à la défense de la cigarette électronique
+Mots clés : cigarette,electronique,nicotine,recommandation,medecins,danger
+-----------Journaliste-----------
+
+ID : 68
+Nom : 
+Prénom : 
+Courriel : 
+Téléphone : 
+Code d'utilisateur : 
+-----------Article-----------
+
+ID : 655766
+Adresse : http://ici.radio-canada.ca/nouvelles/International/2014/02/28/004-ukraine-russie-crimee-aerports.xml
+Section : nouvelles
+Categorie : International
+Fichier : 004-ukraine-russie-crimee-aerports.xml
+Date de creation : 28/2/2014
+Titre : La Crimée glisse des mains de l'Ukraine
+Mots clés : ukraine,russie,crimee,aerports
+-----------Article-----------
+
+ID : 656441
+Adresse : http://ici.radio-canada.ca/nouvelles/International/2014/03/05/001-ukraine-sites-missiles-aide-europe-milliards.xml
+Section : nouvelles
+Categorie : International
+Fichier : 001-ukraine-sites-missiles-aide-europe-milliards.xml
+Date de creation : 5/3/2014
+Titre : L'envoyé spécial de l'ONU&amp;nbsp;en Crimée menacé par des hommes armés
+Mots clés : ukraine,sites,missiles,aide,europe,milliards
+-----------Article-----------
+
+ID : 656365
+Adresse : http://ici.radio-canada.ca/nouvelles/Politique/2014/03/04/011-canada-suspend-activites-militaires-avec-la-russie.xml
+Section : nouvelles
+Categorie : Politique
+Fichier : 011-canada-suspend-activites-militaires-avec-la-russie.xml
+Date de creation : 4/3/2014
+Titre : Le Canada suspend ses relations militaires avec la Russie
+Mots clés : canada,suspend,activites,militaires,avec,la,russie
+-----------Article-----------
+
+ID : 656107
+Adresse : http://ici.radio-canada.ca/nouvelles/International/2014/03/03/005-ukraine-rencontre-russie-onu-diplomatie.xml
+Section : nouvelles
+Categorie : International
+Fichier : 005-ukraine-rencontre-russie-onu-diplomatie.xml
+Date de creation : 3/3/2014
+Titre : La Russie est «&amp;nbsp;du mauvais côté de l'histoire&amp;nbsp;», prévient Obama
+Mots clés : ukraine,rencontre,russie,onu,diplomatie
